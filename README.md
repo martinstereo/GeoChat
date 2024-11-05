@@ -14,8 +14,9 @@
 2. Initialize the database:
   ```bash
   python [init_db.py](http://_vscodecontentref_/1)
-
+  ```
 ## Tests
   To run all tests:
   ```bash
   python -m unittest discover -s tests
+  ```
